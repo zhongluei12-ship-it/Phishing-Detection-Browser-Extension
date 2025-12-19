@@ -1,1 +1,1 @@
-# Phishing-Detection-Browser-Extension
+# Phishing-Detection-Browser-Extension version 1
